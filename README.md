@@ -53,6 +53,7 @@ public class Main {
 Radius: 5.0
 Area: 78.53981633974483
 Perimeter: 31.41592653589793
+![](https://cs14.pikabu.ru/post_img/big/2023/04/20/3/1681956381171584576.jpg)
 
 
 ▎Лицензия
