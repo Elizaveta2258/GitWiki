@@ -19,7 +19,7 @@
 2. Склонируйте этот репозиторий на свой компьютер:
 
    
-   git clone https://github.com/ваш_репозиторий/circle.git
+   git clone https://github.com/GitWiki/circle.git
    
 
 3. Перейдите в директорию проекта:
